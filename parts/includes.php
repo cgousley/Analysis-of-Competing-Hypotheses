@@ -22,9 +22,9 @@
 //////////////////////////////////////////////////////////////////////////////// */
 ?>
 
-<base href="">
-<?php $base_URL="";
-$email_domain="";
+<base href="https://analysis-of-competing-hypotheses-r7ozj.ondigitalocean.app/">
+<?php $base_URL="https://analysis-of-competing-hypotheses-r7ozj.ondigitalocean.app/";
+$email_domain="plus-equals.net";
 $versionNumber="1.0.3alpha"?>
 <link rel="stylesheet" type="text/css" href="css/style.css" />
 <link rel="stylesheet" type="text/css" href="css/sortabletable.css" />
